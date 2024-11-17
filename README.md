@@ -1,4 +1,4 @@
-# FISH 521
+# DELETE THIS AFTER MIGRATING STRUCTURE
 
 ## University of Washington
 
